@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cmiko/cottoncandy/issues"
   },
-  "homepage": "https://github.com/cmiko/cottoncandy#readme"
+  "homepage": "https://github.com/cmiko/cottoncandy#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
