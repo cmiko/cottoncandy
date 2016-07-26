@@ -1,0 +1,19 @@
+{
+  "name": "cottoncandy",
+  "version": "1.0.0",
+  "description": "Cotton Candy Web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmiko/cottoncandy.git"
+  },
+  "author": "Cintia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmiko/cottoncandy/issues"
+  },
+  "homepage": "https://github.com/cmiko/cottoncandy#readme"
+}
